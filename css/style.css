@@ -36,6 +36,7 @@ header {
 }
 
 .logo img {
+  left: 10px;
   width: 120px;
 }
 
